@@ -2,7 +2,7 @@
 
 Project involving cleaning up code and enhancing site for SEO
 
-## Verified the following requirements were met 
+## Verified the following requirements were achieved 
 
 ```
 o Semantic HTML elements
