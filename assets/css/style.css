@@ -3,9 +3,13 @@
     padding: 0;
     margin: 0;
 }
+
 body {
     background-color: #d9dcd6;
 }
+
+/* set headder class elements */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,13 +37,21 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* set <a> tag class elements forlinks  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* set HTML Paragraphs class elements */
+
 p {
     font-size: 16px;
 }
+
+/* class for background image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -48,6 +60,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* float settiings for images in content section */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -56,11 +71,17 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* set content <section> class elements */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* set <aside> benefits class elements */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,6 +116,9 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* set <aside> benefits image class elements */
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -110,6 +134,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* set class for in-page links */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -134,6 +161,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* set class elements for all images */
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -141,8 +171,12 @@ p {
     max-height: 200px;
 }
 .social-media-marketing img {
+    
     max-height: 200px;
 }
+
+/* set h2 class elements for <articles> from links */
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -155,6 +189,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* set footer class elements */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -163,4 +200,4 @@ p {
 }
 .footer h2 {
     font-size: 20px;
-}
+   }
