@@ -13,4 +13,4 @@ o Valid title for SEO
 o SEO optimized
 ```
 
-![alt text]https://avatars3.githubusercontent.com/u/62262420?v=4
+![alt text](https://avatars3.githubusercontent.com/u/62262420?v=4)
